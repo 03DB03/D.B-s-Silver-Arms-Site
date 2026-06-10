@@ -1367,6 +1367,7 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
+window.weapons = weapons;
 window.addToCart = addToCart;
 window.removeFromCart = removeFromCart;
 window.openWeaponModal = openWeaponModal;
